@@ -3,11 +3,13 @@
 
 I wanted a startpage that looked nice and didn't require a ton of resources. I built xcvb to do that.
 
+![xcvb screenshot](/xcvb.png)
+
 ### What does xcvb do?
 
 * Serve a startpage
-* Serve it fast
-* Serve it small
+* Serve it fast (447ms load time with weather)
+* Serve it small (finished docker image size 8.02MB - 67.30kb total request size)
 
 ### What does xcvb not do? 
 
