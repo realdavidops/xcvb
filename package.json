@@ -1,0 +1,22 @@
+{
+  "name": "xcvb",
+  "version": "0.0.1",
+  "description": "a minimal start page",
+  "main": "build.js",
+  "scripts": {
+    "build": "nodejs build.js && parcel build index.html --no-cache"
+  },
+  "author": "David Leonard <david@davidops.com>",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "moment": "^2.27.0",
+    "parcel": "^1.12.4",
+    "tailwindcss": "^1.4.6",
+    "yaml": "^1.10.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "postcss-modules": "^3.2.0"
+  }
+}

@@ -1,0 +1,28 @@
+---
+name: xcvb
+weather:
+  enable: false
+  location: 4736388 # get your location code by searching for your city on https://openweathermap.org
+  units: imperial # imperial or metric
+toplinks:
+  - name: Reddit
+    url: https://old.reddit.com
+  - name: HackerNews
+    url: https://news.ycombinator.com
+  - name: YouTube
+    url: https://www.youtube.com
+  - name: Twitter
+    url: https://twitter.com
+blocks:
+  - name: work
+    links:
+      - name: Okta
+        url: https://okta.com
+      - name: Github
+        url: https://github.com
+      - name: Jira
+        url: https://id.atlassian.com/login
+  - name: home
+    links:
+      - name: Grafana
+        url: https://grafana.com
