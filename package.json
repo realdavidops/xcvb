@@ -9,7 +9,7 @@
   "author": "David Leonard <david@davidops.com>",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "moment": "^2.27.0",
     "parcel": "^1.12.4",
     "tailwindcss": "^1.4.6",
